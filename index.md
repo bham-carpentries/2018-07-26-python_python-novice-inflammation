@@ -3,6 +3,8 @@ layout: lesson
 root: .
 ---
 
+**This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-07-26-python/) workshop on Thursday 26th and Friday 27th July. The episodes that are marked as 'Supplemental' were not covered during the workshop, but may be useful to you.**
+
 The best way to learn how to program is to do something useful,
 so this introduction to Python is built around a common scientific task:
 **data analysis**.
